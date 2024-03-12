@@ -1,2 +1,2 @@
-# RockPaperScissors
+# RockPaperScissors Game
 A classic game
